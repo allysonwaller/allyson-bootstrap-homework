@@ -5,10 +5,28 @@
 
 .byline {
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif; 
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0rem;
+  margin-bottom: 0.5rem; 
 }
 
 .media {
-  font-style: italic;
-  line-height: 1rem; 
+  font-style: italic;  
+  line-height: 0.1rem;
+}
+
+.headline {
+  color: black;
+  font-family: 'Neucha', cursive;
+  font-size: 2rem;
+  margin-bottom: 0.2rem; 
+}
+
+.subhead {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+}
+
+footer {
+  text-align: center;
 }
